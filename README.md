@@ -3,7 +3,7 @@
 
 ## Key Features
 
-- [x] `Training` on the site  codility.com [website](codility.com)
+- [x] `Training` on the site  codility.com [website](https://codility.com)
 - [x] `BinaryGab` in Python3
 - [x] `**` in Python3
 - [ ] GPU accelerated, but not necessary because you write and test your code online.
